@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #8190a1;
+		background-color: #e2b1d8;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2224,9 +2224,9 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #212931;
+			background-color: #ecb4ea;
 			box-shadow: none;
-			color: #fdd6ef !important;
+			color: #ffffff !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2519,7 +2519,7 @@ input, select, textarea {
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #212931;
+		background-color: #e6b4e5;
 		border-color: #212931;
 		color: #ffffff;
 	}
@@ -3208,7 +3208,7 @@ input, select, textarea {
 			}
 
 		.pagination a.active {
-			background-color: #eeeeee;
+			background-color: #e6b4e5;
 		}
 
 	.pagination span {
@@ -3218,10 +3218,10 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		-moz-transition: opacity 0.1s ease;
-		-webkit-transition: opacity 0.1s ease;
-		-ms-transition: opacity 0.1s ease;
-		transition: opacity 0.1s ease;
+		-moz-transition: opacity 0.5s ease;
+		-webkit-transition: opacity 0.5s ease;
+		-ms-transition: opacity 0.5s ease;
+		transition: opacity 0.5s ease;
 		position: relative;
 		z-index: 1;
 		overflow: hidden;
@@ -3233,8 +3233,8 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/Backgr.png");
+			background-color: #e6b4e5;
+			background-image: url("../../images/Backgr.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/b");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
