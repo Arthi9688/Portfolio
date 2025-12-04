@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #1e252d;
+		background-color: #8190a1;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2226,7 +2226,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #212931;
 			box-shadow: none;
-			color: #ffffff !important;
+			color: #fdd6ef !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -3218,10 +3218,10 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		-moz-transition: opacity 0.5s ease;
-		-webkit-transition: opacity 0.5s ease;
-		-ms-transition: opacity 0.5s ease;
-		transition: opacity 0.5s ease;
+		-moz-transition: opacity 0.1s ease;
+		-webkit-transition: opacity 0.1s ease;
+		-ms-transition: opacity 0.1s ease;
+		transition: opacity 0.1s ease;
 		position: relative;
 		z-index: 1;
 		overflow: hidden;
